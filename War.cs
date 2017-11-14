@@ -1,4 +1,4 @@
-﻿//Daniel Dyson
+﻿//
 //This program retrieves a shuffled deck of cards from the CreateDeckOfCards class, and proceeds to start the card game, War.
 //The user can be either Player 1 or 2, but both players have an equal chance of winning.
 
