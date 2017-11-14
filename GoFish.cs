@@ -1,4 +1,4 @@
-﻿//Daniel Dyson
+﻿//
 //This program receives the shuffled deck of cards from the CreateDeckOfCards class, and proceeds to start the game of Go Fish.
 //Player 1 is the user, and Players 2, 3, and 4 are computer generated, where their choices of whom to steal cards from and what cards to steal are completely random
 //The player with the most 4-of-a-kinds at the end of the game is the winner!
