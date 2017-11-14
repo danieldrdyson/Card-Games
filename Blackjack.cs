@@ -1,4 +1,4 @@
-﻿//Daniel Dyson
+﻿//
 //7/2/17
 //Blackjack (bicyclecards.com)
 //Ace can be 1 or 11
